@@ -12,6 +12,7 @@
       <a
         class="project-card"
         href="https://kiowdev.github.io/itd-api/"
+        target="_self"
         aria-label="Открыть документацию itd-api"
       >
         <div class="project-card__glow"></div>
